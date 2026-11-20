@@ -1,0 +1,471 @@
+player,team,group,role,score
+Marcus Thuram,France,Striker,Goal threat,87.5
+Marcus Thuram,France,Striker,Link-up,31.2
+Marcus Thuram,France,Striker,Presser,43.8
+Memphis Depay,Netherlands,Striker,Goal threat,75.0
+Memphis Depay,Netherlands,Striker,Link-up,81.2
+Memphis Depay,Netherlands,Striker,Presser,71.9
+Kylian Mbappé,France,Winger,Creator,45.0
+Kylian Mbappé,France,Winger,Carrier,80.0
+Kylian Mbappé,France,Winger,Goal threat,97.5
+Kylian Mbappé,France,Winger,Presser,27.5
+Adrien Rabiot,France,Midfielder,Deep playmaker,75.0
+Adrien Rabiot,France,Midfielder,Ball winner,50.0
+Adrien Rabiot,France,Midfielder,Attacking,72.4
+Christian Eriksen,Denmark,Midfielder,Deep playmaker,50.0
+Christian Eriksen,Denmark,Midfielder,Ball winner,40.3
+Christian Eriksen,Denmark,Midfielder,Attacking,79.7
+Jan Vertonghen,Belgium,Centre-back,Ball-playing,78.5
+Jan Vertonghen,Belgium,Centre-back,Defending,34.0
+Kevin De Bruyne,Belgium,Midfielder,Deep playmaker,52.8
+Kevin De Bruyne,Belgium,Midfielder,Ball winner,39.9
+Kevin De Bruyne,Belgium,Midfielder,Attacking,88.0
+Antonio Rüdiger,Germany,Centre-back,Ball-playing,77.1
+Antonio Rüdiger,Germany,Centre-back,Defending,53.5
+Bernardo Silva,Portugal,Winger,Creator,60.0
+Bernardo Silva,Portugal,Winger,Carrier,27.5
+Bernardo Silva,Portugal,Winger,Goal threat,40.0
+Bernardo Silva,Portugal,Winger,Presser,52.5
+Kyle Walker,England,Full-back,Progressor,58.8
+Kyle Walker,England,Full-back,Attacking,19.6
+Kyle Walker,England,Full-back,Defending,14.7
+John Stones,England,Centre-back,Ball-playing,61.1
+John Stones,England,Centre-back,Defending,21.5
+Romelu Lukaku,Belgium,Striker,Goal threat,81.2
+Romelu Lukaku,Belgium,Striker,Link-up,47.9
+Romelu Lukaku,Belgium,Striker,Presser,6.2
+Nathan Aké,Netherlands,Full-back,Progressor,45.1
+Nathan Aké,Netherlands,Full-back,Attacking,45.1
+Nathan Aké,Netherlands,Full-back,Defending,28.4
+Kieran Trippier,England,Full-back,Progressor,53.9
+Kieran Trippier,England,Full-back,Attacking,86.3
+Kieran Trippier,England,Full-back,Defending,42.2
+Marko Arnautović,Austria,Striker,Goal threat,18.8
+Marko Arnautović,Austria,Striker,Link-up,35.4
+Marko Arnautović,Austria,Striker,Presser,59.4
+Álvaro Morata,Spain,Striker,Goal threat,59.4
+Álvaro Morata,Spain,Striker,Link-up,56.2
+Álvaro Morata,Spain,Striker,Presser,96.9
+Granit Xhaka,Switzerland,Midfielder,Deep playmaker,91.0
+Granit Xhaka,Switzerland,Midfielder,Ball winner,40.3
+Granit Xhaka,Switzerland,Midfielder,Attacking,48.4
+Pierre-Emile Højbjerg,Denmark,Midfielder,Deep playmaker,81.9
+Pierre-Emile Højbjerg,Denmark,Midfielder,Ball winner,91.7
+Pierre-Emile Højbjerg,Denmark,Midfielder,Attacking,43.2
+Scott McTominay,Scotland,Midfielder,Deep playmaker,2.8
+Scott McTominay,Scotland,Midfielder,Ball winner,23.6
+Scott McTominay,Scotland,Midfielder,Attacking,37.0
+Andrew Robertson,Scotland,Full-back,Progressor,54.9
+Andrew Robertson,Scotland,Full-back,Attacking,54.9
+Andrew Robertson,Scotland,Full-back,Defending,38.2
+Virgil van Dijk,Netherlands,Centre-back,Ball-playing,55.6
+Virgil van Dijk,Netherlands,Centre-back,Defending,54.2
+Declan Rice,England,Midfielder,Deep playmaker,63.2
+Declan Rice,England,Midfielder,Ball winner,56.2
+Declan Rice,England,Midfielder,Attacking,28.6
+Andreas Christensen,Denmark,Centre-back,Ball-playing,52.8
+Andreas Christensen,Denmark,Centre-back,Defending,45.1
+N'Golo Kanté,France,Midfielder,Deep playmaker,73.6
+N'Golo Kanté,France,Midfielder,Ball winner,87.5
+N'Golo Kanté,France,Midfielder,Attacking,70.3
+Aymeric Laporte,Spain,Centre-back,Ball-playing,89.6
+Aymeric Laporte,Spain,Centre-back,Defending,47.9
+Phil Foden,England,Winger,Creator,25.0
+Phil Foden,England,Winger,Carrier,20.0
+Phil Foden,England,Winger,Goal threat,42.5
+Phil Foden,England,Winger,Presser,82.5
+Jules Koundé,France,Full-back,Progressor,55.9
+Jules Koundé,France,Full-back,Attacking,88.2
+Jules Koundé,France,Full-back,Defending,47.1
+Jan Bednarek,Poland,Centre-back,Ball-playing,24.3
+Jan Bednarek,Poland,Centre-back,Defending,38.2
+Tomáš Souček,Czech Republic,Midfielder,Deep playmaker,29.2
+Tomáš Souček,Czech Republic,Midfielder,Ball winner,58.3
+Tomáš Souček,Czech Republic,Midfielder,Attacking,52.1
+Bruno Fernandes,Portugal,Midfielder,Deep playmaker,56.2
+Bruno Fernandes,Portugal,Midfielder,Ball winner,45.8
+Bruno Fernandes,Portugal,Midfielder,Attacking,81.8
+Rúben Dias,Portugal,Centre-back,Ball-playing,67.4
+Rúben Dias,Portugal,Centre-back,Defending,21.5
+Cristiano Ronaldo,Portugal,Striker,Goal threat,93.8
+Cristiano Ronaldo,Portugal,Striker,Link-up,77.1
+Cristiano Ronaldo,Portugal,Striker,Presser,25.0
+Ousmane Dembélé,France,Winger,Creator,90.0
+Ousmane Dembélé,France,Winger,Carrier,97.5
+Ousmane Dembélé,France,Winger,Goal threat,50.0
+Ousmane Dembélé,France,Winger,Presser,70.0
+Antoine Griezmann,France,Midfielder,Deep playmaker,38.9
+Antoine Griezmann,France,Midfielder,Ball winner,31.2
+Antoine Griezmann,France,Midfielder,Attacking,75.0
+Fabian Schär,Switzerland,Centre-back,Ball-playing,48.6
+Fabian Schär,Switzerland,Centre-back,Defending,79.2
+Ricardo Rodríguez,Switzerland,Centre-back,Ball-playing,41.7
+Ricardo Rodríguez,Switzerland,Centre-back,Defending,39.6
+Breel Embolo,Switzerland,Striker,Goal threat,56.2
+Breel Embolo,Switzerland,Striker,Link-up,12.5
+Breel Embolo,Switzerland,Striker,Presser,68.8
+Manuel Akanji,Switzerland,Centre-back,Ball-playing,51.4
+Manuel Akanji,Switzerland,Centre-back,Defending,73.6
+Toni Kroos,Germany,Midfielder,Deep playmaker,97.9
+Toni Kroos,Germany,Midfielder,Ball winner,34.7
+Toni Kroos,Germany,Midfielder,Attacking,44.8
+Joshua Kimmich,Germany,Full-back,Progressor,84.3
+Joshua Kimmich,Germany,Full-back,Attacking,99.0
+Joshua Kimmich,Germany,Full-back,Defending,51.0
+Nikola Milenković,Serbia,Centre-back,Ball-playing,58.3
+Nikola Milenković,Serbia,Centre-back,Defending,56.9
+Daniel Carvajal,Spain,Full-back,Progressor,63.7
+Daniel Carvajal,Spain,Full-back,Attacking,46.1
+Daniel Carvajal,Spain,Full-back,Defending,37.3
+Milos Veljkovic,Serbia,Centre-back,Ball-playing,81.9
+Milos Veljkovic,Serbia,Centre-back,Defending,28.1
+Fabián Ruiz,Spain,Midfielder,Deep playmaker,71.5
+Fabián Ruiz,Spain,Midfielder,Ball winner,54.2
+Fabián Ruiz,Spain,Midfielder,Attacking,78.1
+Theo Hernández,France,Full-back,Progressor,63.7
+Theo Hernández,France,Full-back,Attacking,67.6
+Theo Hernández,France,Full-back,Defending,34.3
+Rodri,Spain,Midfielder,Deep playmaker,84.0
+Rodri,Spain,Midfielder,Ball winner,59.7
+Rodri,Spain,Midfielder,Attacking,39.1
+Stanislav Lobotka,Slovakia,Midfielder,Deep playmaker,79.2
+Stanislav Lobotka,Slovakia,Midfielder,Ball winner,55.6
+Stanislav Lobotka,Slovakia,Midfielder,Attacking,33.9
+Remo Freuler,Switzerland,Midfielder,Deep playmaker,39.6
+Remo Freuler,Switzerland,Midfielder,Ball winner,45.1
+Remo Freuler,Switzerland,Midfielder,Attacking,31.2
+Timothy Castagne,Belgium,Full-back,Progressor,40.2
+Timothy Castagne,Belgium,Full-back,Attacking,11.8
+Timothy Castagne,Belgium,Full-back,Defending,20.6
+Milan Škriniar,Slovakia,Centre-back,Ball-playing,57.6
+Milan Škriniar,Slovakia,Centre-back,Defending,52.1
+João Cancelo,Portugal,Full-back,Progressor,85.3
+João Cancelo,Portugal,Full-back,Attacking,75.5
+João Cancelo,Portugal,Full-back,Defending,63.7
+Hakan Çalhanoğlu,Turkey,Midfielder,Deep playmaker,68.8
+Hakan Çalhanoğlu,Turkey,Midfielder,Ball winner,52.1
+Hakan Çalhanoğlu,Turkey,Midfielder,Attacking,44.8
+Berat Djimsiti,Albania,Centre-back,Ball-playing,32.3
+Berat Djimsiti,Albania,Centre-back,Defending,43.8
+Federico Chiesa,Italy,Winger,Creator,48.3
+Federico Chiesa,Italy,Winger,Carrier,65.0
+Federico Chiesa,Italy,Winger,Goal threat,60.0
+Federico Chiesa,Italy,Winger,Presser,65.0
+Alessandro Bastoni,Italy,Centre-back,Ball-playing,79.2
+Alessandro Bastoni,Italy,Centre-back,Defending,63.9
+Lasha Dvali,Georgia,Centre-back,Ball-playing,31.9
+Lasha Dvali,Georgia,Centre-back,Defending,42.4
+Stefan de Vrij,Netherlands,Centre-back,Ball-playing,71.5
+Stefan de Vrij,Netherlands,Centre-back,Defending,52.1
+Silvan Widmer,Switzerland,Full-back,Progressor,6.9
+Silvan Widmer,Switzerland,Full-back,Attacking,17.2
+Silvan Widmer,Switzerland,Full-back,Defending,53.9
+Guram Kashia,Georgia,Centre-back,Ball-playing,20.8
+Guram Kashia,Georgia,Centre-back,Defending,65.3
+Przemysław Frankowski,Poland,Full-back,Progressor,53.9
+Przemysław Frankowski,Poland,Full-back,Attacking,64.7
+Przemysław Frankowski,Poland,Full-back,Defending,74.5
+Denzel Dumfries,Netherlands,Full-back,Progressor,29.4
+Denzel Dumfries,Netherlands,Full-back,Attacking,70.6
+Denzel Dumfries,Netherlands,Full-back,Defending,43.1
+Nicolò Barella,Italy,Midfielder,Deep playmaker,81.9
+Nicolò Barella,Italy,Midfielder,Ball winner,71.5
+Nicolò Barella,Italy,Midfielder,Attacking,47.9
+Jonathan Tah,Germany,Centre-back,Ball-playing,82.6
+Jonathan Tah,Germany,Centre-back,Defending,16.0
+Joachim Andersen,Denmark,Centre-back,Ball-playing,65.3
+Joachim Andersen,Denmark,Centre-back,Defending,38.5
+Arlind Afrim Ajeti,Albania,Centre-back,Ball-playing,16.3
+Arlind Afrim Ajeti,Albania,Centre-back,Defending,44.4
+Konrad Laimer,Austria,Midfielder,Deep playmaker,52.8
+Konrad Laimer,Austria,Midfielder,Ball winner,56.2
+Konrad Laimer,Austria,Midfielder,Attacking,57.3
+Willi Orban,Hungary,Centre-back,Ball-playing,40.3
+Willi Orban,Hungary,Centre-back,Defending,86.8
+Marcel Sabitzer,Austria,Winger,Creator,36.7
+Marcel Sabitzer,Austria,Winger,Carrier,20.0
+Marcel Sabitzer,Austria,Winger,Goal threat,72.5
+Marcel Sabitzer,Austria,Winger,Presser,57.5
+Dayotchanculle Upamecano,France,Centre-back,Ball-playing,54.9
+Dayotchanculle Upamecano,France,Centre-back,Defending,55.2
+Jannik Vestergaard,Denmark,Centre-back,Ball-playing,66.0
+Jannik Vestergaard,Denmark,Centre-back,Defending,64.9
+Wout Faes,Belgium,Centre-back,Ball-playing,50.0
+Wout Faes,Belgium,Centre-back,Defending,41.0
+Kai Havertz,Germany,Striker,Goal threat,93.8
+Kai Havertz,Germany,Striker,Link-up,56.2
+Kai Havertz,Germany,Striker,Presser,71.9
+Ondrej Duda,Slovakia,Midfielder,Deep playmaker,30.6
+Ondrej Duda,Slovakia,Midfielder,Ball winner,57.6
+Ondrej Duda,Slovakia,Midfielder,Attacking,32.8
+Robert Andrich,Germany,Midfielder,Deep playmaker,78.5
+Robert Andrich,Germany,Midfielder,Ball winner,66.7
+Robert Andrich,Germany,Midfielder,Attacking,33.3
+Peter Pekarík,Slovakia,Full-back,Progressor,25.5
+Peter Pekarík,Slovakia,Full-back,Attacking,40.2
+Peter Pekarík,Slovakia,Full-back,Defending,15.7
+İlkay Gündoğan,Germany,Midfielder,Deep playmaker,34.7
+İlkay Gündoğan,Germany,Midfielder,Ball winner,29.9
+İlkay Gündoğan,Germany,Midfielder,Attacking,41.7
+Aurélien Tchouaméni,France,Midfielder,Deep playmaker,85.4
+Aurélien Tchouaméni,France,Midfielder,Ball winner,18.8
+Aurélien Tchouaméni,France,Midfielder,Attacking,42.2
+Mert Müldür,Turkey,Full-back,Progressor,53.9
+Mert Müldür,Turkey,Full-back,Attacking,37.3
+Mert Müldür,Turkey,Full-back,Defending,52.9
+Nicolae Stanciu,Romania,Midfielder,Deep playmaker,11.8
+Nicolae Stanciu,Romania,Midfielder,Ball winner,33.3
+Nicolae Stanciu,Romania,Midfielder,Attacking,43.2
+Juraj Kucka,Slovakia,Midfielder,Deep playmaker,20.8
+Juraj Kucka,Slovakia,Midfielder,Ball winner,35.4
+Juraj Kucka,Slovakia,Midfielder,Attacking,57.8
+Harry Kane,England,Striker,Goal threat,46.9
+Harry Kane,England,Striker,Link-up,27.1
+Harry Kane,England,Striker,Presser,37.5
+Jack Hendry,Scotland,Centre-back,Ball-playing,37.5
+Jack Hendry,Scotland,Centre-back,Defending,40.3
+Giovanni Di Lorenzo,Italy,Full-back,Progressor,58.8
+Giovanni Di Lorenzo,Italy,Full-back,Attacking,7.4
+Giovanni Di Lorenzo,Italy,Full-back,Defending,64.7
+Stefan Posch,Austria,Full-back,Progressor,65.7
+Stefan Posch,Austria,Full-back,Attacking,88.2
+Stefan Posch,Austria,Full-back,Defending,67.6
+João Palhinha,Portugal,Midfielder,Deep playmaker,52.8
+João Palhinha,Portugal,Midfielder,Ball winner,70.8
+João Palhinha,Portugal,Midfielder,Attacking,17.2
+Kaan Ayhan,Turkey,Centre-back,Ball-playing,48.6
+Kaan Ayhan,Turkey,Centre-back,Defending,50.0
+Maximilian Mittelstädt,Germany,Full-back,Progressor,81.4
+Maximilian Mittelstädt,Germany,Full-back,Attacking,84.3
+Maximilian Mittelstädt,Germany,Full-back,Defending,52.0
+Jerdy Schouten,Netherlands,Midfielder,Deep playmaker,84.0
+Jerdy Schouten,Netherlands,Midfielder,Ball winner,47.2
+Jerdy Schouten,Netherlands,Midfielder,Attacking,24.0
+Timi Elšnik,Slovenia,Midfielder,Deep playmaker,25.0
+Timi Elšnik,Slovenia,Midfielder,Ball winner,78.5
+Timi Elšnik,Slovenia,Midfielder,Attacking,49.5
+Michel Aebischer,Switzerland,Full-back,Progressor,45.1
+Michel Aebischer,Switzerland,Full-back,Attacking,77.5
+Michel Aebischer,Switzerland,Full-back,Defending,49.0
+Jaka Bijol,Slovenia,Centre-back,Ball-playing,20.1
+Jaka Bijol,Slovenia,Centre-back,Defending,65.6
+Denis Vavro,Slovakia,Centre-back,Ball-playing,49.3
+Denis Vavro,Slovakia,Centre-back,Defending,43.1
+Răzvan Marin,Romania,Midfielder,Deep playmaker,18.1
+Răzvan Marin,Romania,Midfielder,Ball winner,13.9
+Răzvan Marin,Romania,Midfielder,Attacking,17.7
+Tomáš Holeš,Czech Republic,Centre-back,Ball-playing,34.7
+Tomáš Holeš,Czech Republic,Centre-back,Defending,80.6
+Petar Stojanović,Slovenia,Winger,Creator,28.3
+Petar Stojanović,Slovenia,Winger,Carrier,30.0
+Petar Stojanović,Slovenia,Winger,Goal threat,5.0
+Petar Stojanović,Slovenia,Winger,Presser,25.0
+Daniel Olmo,Spain,Midfielder,Deep playmaker,36.8
+Daniel Olmo,Spain,Midfielder,Ball winner,40.3
+Daniel Olmo,Spain,Midfielder,Attacking,93.2
+Joakim Maehle,Denmark,Full-back,Progressor,52.0
+Joakim Maehle,Denmark,Full-back,Attacking,55.9
+Joakim Maehle,Denmark,Full-back,Defending,42.2
+Vladimír Coufal,Czech Republic,Full-back,Progressor,67.6
+Vladimír Coufal,Czech Republic,Full-back,Attacking,79.4
+Vladimír Coufal,Czech Republic,Full-back,Defending,72.5
+Dávid Hancko,Slovakia,Full-back,Progressor,56.9
+Dávid Hancko,Slovakia,Full-back,Attacking,39.2
+Dávid Hancko,Slovakia,Full-back,Defending,55.9
+William Saliba,France,Centre-back,Ball-playing,54.9
+William Saliba,France,Centre-back,Defending,58.7
+Marc Cucurella,Spain,Full-back,Progressor,64.7
+Marc Cucurella,Spain,Full-back,Attacking,58.8
+Marc Cucurella,Spain,Full-back,Defending,55.9
+Rafael Leão,Portugal,Winger,Creator,70.0
+Rafael Leão,Portugal,Winger,Carrier,67.5
+Rafael Leão,Portugal,Winger,Goal threat,15.0
+Rafael Leão,Portugal,Winger,Presser,10.0
+Mykola Matvienko,Ukraine,Centre-back,Ball-playing,82.6
+Mykola Matvienko,Ukraine,Centre-back,Defending,58.3
+Roland Sallai,Hungary,Midfielder,Deep playmaker,17.4
+Roland Sallai,Hungary,Midfielder,Ball winner,34.7
+Roland Sallai,Hungary,Midfielder,Attacking,84.9
+Pepe,Portugal,Centre-back,Ball-playing,70.8
+Pepe,Portugal,Centre-back,Defending,84.7
+Cody Gakpo,Netherlands,Winger,Creator,78.3
+Cody Gakpo,Netherlands,Winger,Carrier,60.0
+Cody Gakpo,Netherlands,Winger,Goal threat,60.0
+Cody Gakpo,Netherlands,Winger,Presser,42.5
+Dominik Szoboszlai,Hungary,Midfielder,Deep playmaker,29.2
+Dominik Szoboszlai,Hungary,Midfielder,Ball winner,56.2
+Dominik Szoboszlai,Hungary,Midfielder,Attacking,72.9
+Tijjani Reijnders,Netherlands,Midfielder,Deep playmaker,72.2
+Tijjani Reijnders,Netherlands,Midfielder,Ball winner,25.0
+Tijjani Reijnders,Netherlands,Midfielder,Attacking,55.2
+Bukayo Saka,England,Winger,Creator,43.3
+Bukayo Saka,England,Winger,Carrier,47.5
+Bukayo Saka,England,Winger,Goal threat,22.5
+Bukayo Saka,England,Winger,Presser,17.5
+Robin Le Normand,Spain,Centre-back,Ball-playing,73.6
+Robin Le Normand,Spain,Centre-back,Defending,19.4
+Jérémy Doku,Belgium,Winger,Creator,60.0
+Jérémy Doku,Belgium,Winger,Carrier,97.5
+Jérémy Doku,Belgium,Winger,Goal threat,35.0
+Jérémy Doku,Belgium,Winger,Presser,60.0
+Ylber Ramadani,Albania,Midfielder,Deep playmaker,35.4
+Ylber Ramadani,Albania,Midfielder,Ball winner,82.6
+Ylber Ramadani,Albania,Midfielder,Attacking,12.2
+Alexander Bah,Denmark,Full-back,Progressor,59.8
+Alexander Bah,Denmark,Full-back,Attacking,52.9
+Alexander Bah,Denmark,Full-back,Defending,60.8
+Andrei Ratiu,Romania,Full-back,Progressor,29.4
+Andrei Ratiu,Romania,Full-back,Attacking,28.4
+Andrei Ratiu,Romania,Full-back,Defending,38.2
+Christoph Baumgartner,Austria,Midfielder,Deep playmaker,9.7
+Christoph Baumgartner,Austria,Midfielder,Ball winner,66.7
+Christoph Baumgartner,Austria,Midfielder,Attacking,90.6
+Otar Kakabadze,Georgia,Full-back,Progressor,26.5
+Otar Kakabadze,Georgia,Full-back,Attacking,52.0
+Otar Kakabadze,Georgia,Full-back,Defending,71.6
+Strahinja Pavlović,Serbia,Centre-back,Ball-playing,32.6
+Strahinja Pavlović,Serbia,Centre-back,Defending,76.7
+Ivan Schranz,Slovakia,Winger,Creator,35.0
+Ivan Schranz,Slovakia,Winger,Carrier,5.0
+Ivan Schranz,Slovakia,Winger,Goal threat,62.5
+Ivan Schranz,Slovakia,Winger,Presser,22.5
+Erik Janža,Slovenia,Full-back,Progressor,31.4
+Erik Janža,Slovenia,Full-back,Attacking,55.9
+Erik Janža,Slovenia,Full-back,Defending,46.1
+Ladislav Krejčí,Czech Republic,Centre-back,Ball-playing,23.6
+Ladislav Krejčí,Czech Republic,Centre-back,Defending,54.9
+Ruben Vargas,Switzerland,Midfielder,Deep playmaker,29.9
+Ruben Vargas,Switzerland,Midfielder,Ball winner,48.6
+Ruben Vargas,Switzerland,Midfielder,Attacking,89.6
+Ferdi Kadioglu,Turkey,Full-back,Progressor,58.8
+Ferdi Kadioglu,Turkey,Full-back,Attacking,81.4
+Ferdi Kadioglu,Turkey,Full-back,Defending,72.5
+Jude Bellingham,England,Midfielder,Deep playmaker,44.4
+Jude Bellingham,England,Midfielder,Ball winner,60.4
+Jude Bellingham,England,Midfielder,Attacking,55.2
+Marius Marin,Romania,Midfielder,Deep playmaker,26.4
+Marius Marin,Romania,Midfielder,Ball winner,60.4
+Marius Marin,Romania,Midfielder,Attacking,11.7
+Jan Mlakar,Slovenia,Winger,Creator,20.0
+Jan Mlakar,Slovenia,Winger,Carrier,12.5
+Jan Mlakar,Slovenia,Winger,Goal threat,12.5
+Jan Mlakar,Slovenia,Winger,Presser,37.5
+Denis Dragus,Romania,Striker,Goal threat,37.5
+Denis Dragus,Romania,Striker,Link-up,29.2
+Denis Dragus,Romania,Striker,Presser,90.6
+Andraž Šporar,Slovenia,Striker,Goal threat,50.0
+Andraž Šporar,Slovenia,Striker,Link-up,62.5
+Andraž Šporar,Slovenia,Striker,Presser,25.0
+Andrei Burcă Andonie,Romania,Centre-back,Ball-playing,20.1
+Andrei Burcă Andonie,Romania,Centre-back,Defending,54.2
+Adam Gnezda Čerin,Slovenia,Midfielder,Deep playmaker,18.8
+Adam Gnezda Čerin,Slovenia,Midfielder,Ball winner,70.8
+Adam Gnezda Čerin,Slovenia,Midfielder,Attacking,17.7
+Joško Gvardiol,Croatia,Full-back,Progressor,53.9
+Joško Gvardiol,Croatia,Full-back,Attacking,16.7
+Joško Gvardiol,Croatia,Full-back,Defending,50.0
+Georges Mikautadze,Georgia,Striker,Goal threat,12.5
+Georges Mikautadze,Georgia,Striker,Link-up,72.9
+Georges Mikautadze,Georgia,Striker,Presser,28.1
+Marc Guehi,England,Centre-back,Ball-playing,66.0
+Marc Guehi,England,Centre-back,Defending,38.2
+Nicusor Bancu,Romania,Full-back,Progressor,46.1
+Nicusor Bancu,Romania,Full-back,Attacking,44.1
+Nicusor Bancu,Romania,Full-back,Defending,65.7
+Vitinha,Portugal,Midfielder,Deep playmaker,70.8
+Vitinha,Portugal,Midfielder,Ball winner,41.7
+Vitinha,Portugal,Midfielder,Attacking,57.3
+Josip Šutalo,Croatia,Centre-back,Ball-playing,54.2
+Josip Šutalo,Croatia,Centre-back,Defending,46.5
+Kvara,Georgia,Striker,Goal threat,21.9
+Kvara,Georgia,Striker,Link-up,85.4
+Kvara,Georgia,Striker,Presser,34.4
+Benjamin Šeško,Slovenia,Striker,Goal threat,34.4
+Benjamin Šeško,Slovenia,Striker,Link-up,37.5
+Benjamin Šeško,Slovenia,Striker,Presser,65.6
+Georgiy Sudakov,Ukraine,Midfielder,Deep playmaker,56.2
+Georgiy Sudakov,Ukraine,Midfielder,Ball winner,21.5
+Georgiy Sudakov,Ukraine,Midfielder,Attacking,67.2
+Ilya Zabarnyi,Ukraine,Centre-back,Ball-playing,63.9
+Ilya Zabarnyi,Ukraine,Centre-back,Defending,61.8
+Xavi Simons,Netherlands,Midfielder,Deep playmaker,41.0
+Xavi Simons,Netherlands,Midfielder,Ball winner,47.9
+Xavi Simons,Netherlands,Midfielder,Attacking,87.5
+Nicolas Seiwald,Austria,Midfielder,Deep playmaker,60.4
+Nicolas Seiwald,Austria,Midfielder,Ball winner,94.4
+Nicolas Seiwald,Austria,Midfielder,Attacking,34.9
+Jamal Musiala,Germany,Winger,Creator,55.0
+Jamal Musiala,Germany,Winger,Carrier,75.0
+Jamal Musiala,Germany,Winger,Goal threat,72.5
+Jamal Musiala,Germany,Winger,Presser,77.5
+Radu Dragusin,Romania,Centre-back,Ball-playing,16.0
+Radu Dragusin,Romania,Centre-back,Defending,62.5
+Florian Wirtz,Germany,Winger,Creator,70.0
+Florian Wirtz,Germany,Winger,Carrier,65.0
+Florian Wirtz,Germany,Winger,Goal threat,77.5
+Florian Wirtz,Germany,Winger,Presser,97.5
+Nuno Mendes,Portugal,Full-back,Progressor,84.3
+Nuno Mendes,Portugal,Full-back,Attacking,26.5
+Nuno Mendes,Portugal,Full-back,Defending,53.9
+Giorgi Kochorashvili,Georgia,Midfielder,Deep playmaker,61.1
+Giorgi Kochorashvili,Georgia,Midfielder,Ball winner,82.6
+Giorgi Kochorashvili,Georgia,Midfielder,Attacking,49.5
+Riccardo Calafiori,Italy,Centre-back,Ball-playing,77.8
+Riccardo Calafiori,Italy,Centre-back,Defending,52.8
+András Schäfer,Hungary,Midfielder,Deep playmaker,40.3
+András Schäfer,Hungary,Midfielder,Ball winner,45.1
+András Schäfer,Hungary,Midfielder,Attacking,16.7
+Jakub Piotr Kiwior,Poland,Centre-back,Ball-playing,30.6
+Jakub Piotr Kiwior,Poland,Centre-back,Defending,54.9
+Dan Ndoye,Switzerland,Full-back,Progressor,39.2
+Dan Ndoye,Switzerland,Full-back,Attacking,49.0
+Dan Ndoye,Switzerland,Full-back,Defending,58.8
+Amadou Onana,Belgium,Midfielder,Deep playmaker,62.5
+Amadou Onana,Belgium,Midfielder,Ball winner,40.6
+Amadou Onana,Belgium,Midfielder,Attacking,21.9
+Abdülkerim Bardakcı,Turkey,Centre-back,Ball-playing,36.1
+Abdülkerim Bardakcı,Turkey,Centre-back,Defending,58.3
+Mario Mitaj,Albania,Full-back,Progressor,14.7
+Mario Mitaj,Albania,Full-back,Attacking,17.6
+Mario Mitaj,Albania,Full-back,Defending,67.6
+Rasmus Höjlund,Denmark,Striker,Goal threat,46.9
+Rasmus Höjlund,Denmark,Striker,Link-up,41.7
+Rasmus Höjlund,Denmark,Striker,Presser,78.1
+Dennis Man,Romania,Winger,Creator,68.3
+Dennis Man,Romania,Winger,Carrier,42.5
+Dennis Man,Romania,Winger,Goal threat,62.5
+Dennis Man,Romania,Winger,Presser,22.5
+Kristjan Asllani,Albania,Midfielder,Deep playmaker,59.0
+Kristjan Asllani,Albania,Midfielder,Ball winner,41.7
+Kristjan Asllani,Albania,Midfielder,Attacking,72.9
+Nico Williams,Spain,Winger,Creator,80.0
+Nico Williams,Spain,Winger,Carrier,80.0
+Nico Williams,Spain,Winger,Goal threat,70.0
+Nico Williams,Spain,Winger,Presser,90.0
+Robin Hranáč,Czech Republic,Centre-back,Ball-playing,27.8
+Robin Hranáč,Czech Republic,Centre-back,Defending,26.4
+Kobbie Mainoo,England,Midfielder,Deep playmaker,46.5
+Kobbie Mainoo,England,Midfielder,Ball winner,42.4
+Kobbie Mainoo,England,Midfielder,Attacking,45.8
+Arda Güler,Turkey,Striker,Goal threat,34.4
+Arda Güler,Turkey,Striker,Link-up,95.8
+Arda Güler,Turkey,Striker,Presser,46.9
+Samet Akaydin,Turkey,Centre-back,Ball-playing,59.0
+Samet Akaydin,Turkey,Centre-back,Defending,44.4
+Barış Alper Yılmaz,Turkey,Winger,Creator,26.7
+Barış Alper Yılmaz,Turkey,Winger,Carrier,37.5
+Barış Alper Yılmaz,Turkey,Winger,Goal threat,20.0
+Barış Alper Yılmaz,Turkey,Winger,Presser,60.0
+Žan Karničnik,Slovenia,Full-back,Progressor,38.2
+Žan Karničnik,Slovenia,Full-back,Attacking,10.8
+Žan Karničnik,Slovenia,Full-back,Defending,87.3
+Kenan Yildiz,Turkey,Winger,Creator,15.0
+Kenan Yildiz,Turkey,Winger,Carrier,45.0
+Kenan Yildiz,Turkey,Winger,Goal threat,75.0
+Kenan Yildiz,Turkey,Winger,Presser,55.0
+Vanja Drkušić,Slovenia,Centre-back,Ball-playing,13.2
+Vanja Drkušić,Slovenia,Centre-back,Defending,58.0
+Lamine Yamal,Spain,Winger,Creator,95.0
+Lamine Yamal,Spain,Winger,Carrier,75.0
+Lamine Yamal,Spain,Winger,Goal threat,97.5
+Lamine Yamal,Spain,Winger,Presser,77.5
